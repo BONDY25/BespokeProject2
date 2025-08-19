@@ -28,3 +28,28 @@ This project was my first real-world C\# WinForms application, and I have since 
 
 This project demonstrates my ability to take a foundational application, identify its limitations, and rebuild it with a focus on scalability, error handling, and enhanced functionality. It showcases my growth as a developer from an initial concept to a more mature and robust solution.
 
+#### Login Form
+
+<img width="380" height="502" alt="image" src="https://github.com/user-attachments/assets/cf522d23-b424-45ca-89f2-5e8d43faf24b" />
+
+#### Menu Form
+
+<img width="324" height="644" alt="image" src="https://github.com/user-attachments/assets/59fafa79-d027-4b7a-b302-763a0ae1224b" />
+
+#### Custom Receipt Form
+
+<img width="568" height="575" alt="image" src="https://github.com/user-attachments/assets/180ff574-e5d1-476d-981e-d1addf444b3f" />
+
+#### License Plate Module
+
+<img width="750" height="647" alt="image" src="https://github.com/user-attachments/assets/b467fd9f-65d1-4d0e-af8a-e7ce91231019" />
+
+#### Angry Bee
+
+The bee gets angry when you try to insert a record without completing all fields
+
+<img width="488" height="124" alt="image" src="https://github.com/user-attachments/assets/fa984ef3-02af-4075-9793-89f8c2a7ac60" />
+
+
+
+
