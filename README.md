@@ -28,6 +28,8 @@ This project was my first real-world C\# WinForms application, and I have since 
 
 This project demonstrates my ability to take a foundational application, identify its limitations, and rebuild it with a focus on scalability, error handling, and enhanced functionality. It showcases my growth as a developer from an initial concept to a more mature and robust solution.
 
+---
+
 #### Login Form
 
 <img width="380" height="502" alt="image" src="https://github.com/user-attachments/assets/cf522d23-b424-45ca-89f2-5e8d43faf24b" />
